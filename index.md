@@ -1,16 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Curriculo</title>
   <link rel="stylesheet" href="style.css">
   <script src="https://kit.fontawesome.com/45d3418535.js" crossorigin="anonymous"></script>
   <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css">
-</head>
-<body>
-
   <main class="a4">
     <article class="curriculo">
       <section class="perfil">
@@ -49,7 +40,6 @@
             <p>@: mail@mail.com </p>
           </div>
         </div>
-  
       </section>
       <section class="competencias">
   
@@ -107,8 +97,4 @@
   
       </section>
     </article>
-
-
   </main>  
-</body>
-</html>

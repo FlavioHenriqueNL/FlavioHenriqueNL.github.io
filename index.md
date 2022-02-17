@@ -54,7 +54,7 @@
           </div>
           <div class="experiencia">
             <h1 class="empresa">Bossa Propaganda | Desenvolvedor Web</h1>
-            <h2 class="periodo">2021 - Atual</h2>
+            <h2 class="periodo">2021 - 2022</h2>
             <p class="descricao">
               Desenvolvimento de Websites, hotsites e Ecommerces em HTML, CSS, JS e conversão para temas Wordpress.
             </p>
@@ -66,6 +66,23 @@
               Além da atuação de Assistente administrativo, fico a frente de pequenos projetos local em React.js para a Secretaria Municipal de Saúde.
             </p>
           </div>
+          <div class="experiencia">
+            <h1 class="empresa">Freelancer Desenvolvedor WEB - Front End</h1>
+            <h2 class="periodo">2018 - Atual</h2>
+          </div>
+        </div>
+
+        <div class="portifolio">
+          <h1 class="titulo">Portfólio Online</h1>
+
+          <ul>
+            <li><a target="blank" href="http://comunicarcentro.com">Comunicar Centro</a></li>
+            <li><a target="blank" href="http://sururutalks.com">SururuTalks</a></li>
+            <li><a target="blank" href="http://uniaoprotecaoveicular.com.br">União Proteção Veícular</a></li>
+            <li><a target="blank" href="http://guardareseguros.com.br">Guardare Seguros</a></li>
+            <li><a target="blank" href="http://trinfopedras.com.br">Triunfo Pedras</a></li>
+          </ul>
+
         </div>
   
         <div class="formacoes">
